@@ -20,5 +20,8 @@
     "knex": "^0.21.1",
     "nodemon": "^1.19.4",
     "pg": "^8.0.3"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
   }
 }
